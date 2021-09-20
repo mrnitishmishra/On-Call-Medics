@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013849121589",
+    "project_id": "on-call-medics",
+    "storage_bucket": "on-call-medics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013849121589:android:baeb9e75670da23f0de27c",
+        "android_client_info": {
+          "package_name": "com.example.oncallmedics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013849121589-kn8s5rgm7omjbivebsvg0p008ko5mv4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgDdOu3mUXLkH5K-nXs5hIo8p3cv1ZYm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013849121589-kn8s5rgm7omjbivebsvg0p008ko5mv4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
